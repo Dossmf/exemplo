@@ -1,0 +1,6 @@
+site_name: site de exemplo
+site_author: Mayque Fonseca
+
+theme:  
+  name: material
+  language: pt
